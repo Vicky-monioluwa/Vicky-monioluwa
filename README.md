@@ -7,7 +7,7 @@
 - <b>Fruits Defects Classification System with Computer Vision</b>
   - [Image Analysis](https://github.com/Vicky-monioluwa/Fruits_defect_classification) <b><i></b></i>
 - <b>Census Project Analysis </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://)
+  - [Mock Census Project](https://github.com/Vicky-monioluwa/Census_analysis)
 - <b>Analyzing Maternal Health Data to Improve Health Outcomes</b>
   - [Ransomware Proof of Concept (Encrypter)](https://)
 - <b>Emergency Vehicle Identification</b>
