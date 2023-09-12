@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Wellbeing of people in the United Kingdom (Regression Analysis and Machine Learning) </b>
-  - [Praciting DS & Algos in Python](https://)
+- <b>Wellbeing of people in the United Kingdom </b>
+  - [Regression Analysis and Machine Learning](https://github.com/Vicky-monioluwa/Wellbeing_of_people_in_United_Kingdom)
 - <b>Fruits Defects Classification System with Computer Vision</b>
   - [Image Analysis](https://github.com/Vicky-monioluwa/Fruits_defect_classification) <b><i></b></i>
 - <b>Census Project Analysis </b>
