@@ -11,7 +11,7 @@
 - <b>Analyzing Maternal Health Data to Improve Health Outcomes</b>
   - [Prediction of Maternal Health](https://github.com/Vicky-monioluwa/Maternal_Health_Prediction)
 - <b>Emergency Vehicle Identification</b>
-  - [Image Analysis](https:/)
+  - [Image Analysis](https://github.com/Vicky-monioluwa/Emergency_Vehicle_Identification)
 
 <h2> 🤳 Connect with me:</h2>
 
